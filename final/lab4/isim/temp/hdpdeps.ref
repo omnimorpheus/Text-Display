@@ -1,0 +1,7 @@
+V3 5
+FL "C:/Users/Student/Desktop/New/lab4/../../lab4 - day 2/lab4 - day 2/lab4/vga.v" 2015/10/27.21:33:01 J.36
+MO isim_temp/vga \
+      FL "C:/Users/Student/Desktop/New/lab4/../../lab4 - day 2/lab4 - day 2/lab4/vga.v" \
+      MI first
+FL $XILINX/verilog/src/glbl.v 2007/05/18.17:22:56 J.36
+MO isim_temp/glbl FL $XILINX/verilog/src/glbl.v

@@ -1,0 +1,4 @@
+MO keyb NULL keyb.v vlg5B/keyb.bin 1446080020
+MO mylab4 NULL mylab4.v vlg4D/mylab4.bin 1446080020
+MO vga NULL vga.v vlg6A/vga.bin 1446080020
+MO font_rom NULL ./font_rom.v vlg6C/font__rom.bin 1446080020

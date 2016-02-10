@@ -1,0 +1,36 @@
+Release 9.2i - xst J.36
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.08 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "font_rom.v" in library work
+Compiling verilog file "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" in library work
+Module <font_rom> compiled
+Module <vga> compiled
+ERROR:HDLCompilers:247 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 114 Reference to vector wire 'char_addr' is not a legal reg or variable lvalue
+ERROR:HDLCompilers:42 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 114 Illegal left hand side of procedural assign
+ERROR:HDLCompilers:247 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 115 Reference to vector wire 'row_addr' is not a legal reg or variable lvalue
+ERROR:HDLCompilers:42 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 115 Illegal left hand side of procedural assign
+ERROR:HDLCompilers:247 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 116 Reference to vector wire 'rom_addr' is not a legal reg or variable lvalue
+ERROR:HDLCompilers:42 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 116 Illegal left hand side of procedural assign
+ERROR:HDLCompilers:247 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 117 Reference to vector wire 'bit_addr' is not a legal reg or variable lvalue
+ERROR:HDLCompilers:42 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 117 Illegal left hand side of procedural assign
+ERROR:HDLCompilers:247 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 118 Reference to scalar wire 'font_bit' is not a legal reg or variable lvalue
+ERROR:HDLCompilers:42 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 118 Illegal left hand side of procedural assign
+ERROR:HDLCompilers:247 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 119 Reference to scalar wire 'text_bit_on' is not a legal reg or variable lvalue
+ERROR:HDLCompilers:42 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 119 Illegal left hand side of procedural assign
+ERROR:HDLCompilers:247 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 120 Reference to scalar wire 'video_on' is not a legal reg or variable lvalue
+ERROR:HDLCompilers:42 - "../../lab4 - day 2/lab4 - day 2/lab4/vga.v" line 120 Illegal left hand side of procedural assign
+Analysis of file <"vga.prj"> failed.
+--> 
+
+Total memory usage is 145720 kilobytes
+
+Number of errors   :   14 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
