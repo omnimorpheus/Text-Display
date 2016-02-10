@@ -1,0 +1,2 @@
+# Text-Display
+The main objective is to learn to use the FPGA to accept input from keyboard and with the help of font rom in .coe file, display the input character on the VGA. Pressing the “Enter” key should clear the screen, only one character needs to be displayed at a time. Pressing any key other than the number keys or the Enter key should display the character “E”. The character should be displayed in the top left corner of the VGA monitor.
